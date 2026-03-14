@@ -1,5 +1,5 @@
 ﻿# MetaFam Knowledge Graph Analysis
-
+quick update: we made it in :)
 ## Project Overview
 This repository contains a comprehensive analysis of the MetaFam Knowledge Graph dataset - a synthetic family relationship dataset. The project demonstrates various graph analysis techniques including Graph Theory, Community Detection, Logic Rule Mining, and Link Prediction using Knowledge Graph Embeddings and Graph Neural Networks.
 
